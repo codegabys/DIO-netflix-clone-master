@@ -8,7 +8,7 @@ Aula com o @felipeAguiarCode utilizando as tecnologias HTML5, CSS3 e JavaScript.
 
 
 
-<img src="logo-dio.png" >
+<img src="img/logo-dio.png" >
 
 A Digital Innovation One é uma comunidade educacional gratuita para desenvolvedores de software aprender, praticar e se conectar com grandes oportunidades.<br>
 Apartir do conhecimento adquirido vou estar realizando os projetos estudados juntamente com os professores da plataforma.
